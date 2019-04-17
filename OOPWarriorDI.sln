@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPWarriorDI", "OOPWarriorDI\OOPWarriorDI.csproj", "{E959AA1E-77DB-4106-8E77-CC9EAC2A03BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestWarriorDI", "UnitTestWarriorDI\UnitTestWarriorDI.csproj", "{E2C6DFA3-03E6-4F05-B054-E1A7F07BE541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E959AA1E-77DB-4106-8E77-CC9EAC2A03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E959AA1E-77DB-4106-8E77-CC9EAC2A03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E959AA1E-77DB-4106-8E77-CC9EAC2A03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E959AA1E-77DB-4106-8E77-CC9EAC2A03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C6DFA3-03E6-4F05-B054-E1A7F07BE541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C6DFA3-03E6-4F05-B054-E1A7F07BE541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C6DFA3-03E6-4F05-B054-E1A7F07BE541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C6DFA3-03E6-4F05-B054-E1A7F07BE541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C6EB5B-39CB-4E1D-9F03-78EDC879D704}
+	EndGlobalSection
+EndGlobal
