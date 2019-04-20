@@ -54,9 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="NinjectModules\WarriorModule.cs" />
-    <Compile Include="SPAS_12.cs" />
+    <Compile Include="Weapons\SPAS_12.cs" />
     <Compile Include="UnityContainers\WarriorContainer.cs" />
-    <Compile Include="Valkyrie.cs" />
+    <Compile Include="Warriors\Valkyrie.cs" />
     <Compile Include="Weapons\IWeapon.cs" />
     <Compile Include="Weapons\Katana.cs" />
     <Compile Include="Warriors\Ninja.cs" />

@@ -7,6 +7,7 @@ namespace OOPWarriorDI
 {
     public class Ninja : Warrior
     {
+        //a ninja that has a weapon
         public Ninja(IWeapon weapon):base(weapon){}
     }
 }

@@ -7,6 +7,7 @@ namespace OOPWarriorDI
 {
     public class Sword:Weapon
     {
+        //general sword
         public Sword()
         {
             name = "Sword";
